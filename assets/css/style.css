@@ -1,0 +1,24 @@
+html {
+    scroll-behavior: auto !important; 
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+
+}
+/* Navbar*/
+.navbar {
+    background-color: #0dcaf0;
+    position: solid;
+    width: 100vw;
+    z-index: 1;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    font-family: "Raleway";
+    font-weight: 300;
+
+}
