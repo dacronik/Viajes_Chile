@@ -22,3 +22,23 @@ body {
     font-weight: 300;
 
 }
+
+/*columnas*/
+
+#QuienesSomos {
+    background-color: black;
+    font-family: "Raleway";
+    font-weight: 300;
+    display: inline-block;
+}
+#QuienesSomos h4 {
+    font-family:"Raleway";
+}
+.icono {
+    background-color: #0dcaf0 ;
+    color: #ffffff;
+}
+
+.texto {
+    color: #ffffff;
+}
