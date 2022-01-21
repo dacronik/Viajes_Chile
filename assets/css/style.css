@@ -75,3 +75,17 @@ body {
 .btn {
     background-color:#0dcaf0 ;
 }
+
+/*footer*/
+
+footer {
+    background-color: #0dcaf0 ;
+}
+#Footer a{
+    color: #ffffff;
+    text-decoration: none;
+}
+#Footer h1{
+    font-family: "Raleway";
+    font-weight: 100;
+}
